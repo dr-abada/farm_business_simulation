@@ -1,4 +1,4 @@
-#About the Author
+# About the Author
 
 I am a 25-year-old veterinarian from Morocco, currently completing an MSc in Predictive and Integrative Biology. The next step is a PhD in poultry sciences — specifically in production systems and nutrition, the area where animal health, feed efficiency, and farm economics converge. Poultry has been a consistent focus throughout my training, and laying hen production in particular is where I intend to build a career — not only as a scientist, but as a business manager and operator.
 
