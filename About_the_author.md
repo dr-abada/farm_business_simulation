@@ -1,0 +1,11 @@
+# farm_business_simulation
+About the Author
+I am a 25-year-old veterinarian from Morocco, currently completing an MSc in Predictive and Integrative Biology. The next step is a PhD in poultry sciences — specifically in production systems and nutrition, the area where animal health, feed efficiency, and farm economics converge. Poultry has been a consistent focus throughout my training, and laying hen production in particular is where I intend to build a career — not only as a scientist, but as a business manager and operator.
+
+The long-term goal is clear: launch a commercial egg production business in Morocco after the doctorate. The Moroccan egg market is large, fragmented, and underserved by data-driven management. Most operations of small to medium scale run on experience and intuition rather than structured analytics. That gap is rather an opportunity than a problem.
+
+The academic years are being used deliberately. Rather than treating the MSc and PhD purely as research credentials, I am using this period to build the full stack of skills the business will require. On the scientific side: poultry nutrition, flock health, production system design, and the biological models that underpin performance analysis. On the technical side: data analysis, database design and management, statistical modelling, R, SQL, and business intelligence tools. On the business side: financial modelling, operational planning, cost structure analysis, and the management frameworks that turn a farm into a company rather than just a production unit.
+
+This project is where all of that comes together. It is simultaneously a data portfolio, a business simulation, and a long-term planning tool. Every model built here — production curves, feed cost optimisation, cash flow projections, mortality risk analysis — is a real analytical problem the farm will face. Building and solving them now, during the academic years, means the learning curve is behind the business before it opens, not ahead of it.
+
+The repository will grow continuously across the MSc and PhD years, accumulating both technical depth and domain specificity. By the time the farm launches, this platform will already have simulated years of production decisions, financial cycles, and market conditions — grounded in real Moroccan data throughout.
